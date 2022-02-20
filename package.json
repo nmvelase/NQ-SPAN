@@ -1,0 +1,24 @@
+{
+  "name": "soccer-league",
+  "version": "1.0.0",
+  "description": "Code test application",
+  "main": "index.js",
+  "scripts": {
+    "start":"node index.js",
+    "test": "jest --verbose --coverage"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://NQ.com/georgeraymond92/soccer-league.git"
+  },
+  "author": "NQ",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NQ/soccer-league/issues"
+  },
+  "homepage": "https://github.com/NQ/soccer-league#readme",
+  "dependencies": {
+    "inquirer": "^6.2.2",
+    "jest": "^23.6.0"
+  }
+}
